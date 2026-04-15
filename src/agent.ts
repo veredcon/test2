@@ -1,1 +1,1 @@
-export const agent = "Hello from Joule1 Studio!!!!";
+export const agent = "Hello from Joule2 Studio!!!!";
